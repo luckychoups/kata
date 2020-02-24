@@ -1,0 +1,1 @@
+tratata = 'mi vezem with us kota'
